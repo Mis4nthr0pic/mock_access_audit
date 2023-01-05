@@ -90,6 +90,8 @@ Remove unsed function.
 
 
 ## Tools used
+`foundry`.
+
 `slither`.
 
 `mythril`.
