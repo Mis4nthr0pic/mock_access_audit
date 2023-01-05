@@ -6,3 +6,6 @@ solc = "0.8.17"
 
 [profile.0_8_13]
 solc = '0.8.13'
+
+[profile.0_8_0]
+solc = '0.8.0'
